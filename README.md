@@ -7,4 +7,5 @@
 <artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
 （2）yml配置文件中配置jpa信息
+（3）建立表，数据库，这里抽取了公共类其中用到了@auditspringdatajpa的审计功能
  
